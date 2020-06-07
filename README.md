@@ -11,3 +11,6 @@ This line chart allows you to see the percentage of successful, failed, or cance
 2.	Outcomes based on Launch Date
 This line chart gives insight into the number of successful, failed, or canceled campaigns based on their Launch Date.
 
+![](OutcomesBasedOnGoal-PivotChart.png)
+
+![](OutcomesBasedOnLaunchDate-Theater-PivotChart.png)
